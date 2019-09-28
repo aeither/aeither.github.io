@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "Bhavesh Bhatt"
+title                    : "John Fu Lin"
 title_separator          : "-"
-name                     : "Bhavesh Bhatt"
+name                     : "John Fu Lin"
 description              : "My Personal Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -78,14 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bhavesh Bhatt"
+  name             : "John Fu Lin"
   avatar           : "/assets/images/bhavesh.jpeg"
-  #bio              : "Data Scientist, Google Develeoper Expert in ML"
-  bio              : "Data Scientist, Educator, Trainer, YouTube Creator"
-  location         : "Mumbai, India"
+  bio              : "Entrepreneur, Software developer, Economic student"
+  location         : "Milan, Italy"
   target-blank     : "ext-link"
-  email            : "bhattbhavesh91@gmail.com"
-  youtube          : "https://www.youtube.com/BhaveshBhatt8791"
+  email            : "giovannifulin@gmail.com"
+  youtube          : "https://www.youtube.com/channel/UCXrocy9tlhe28fR_tNuLBNg"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,18 +92,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bhattbhavesh91"
+  github           : "aeither"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "bhattbhavesh91"
+  linkedin         : "giovannifulin"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "_bhaveshbhatt"
+  twitter          :
   vine             :
   weibo            :
   xing             :
