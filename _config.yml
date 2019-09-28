@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "John Fu Lin"
-  avatar           : "/assets/images/avatar.jpeg"
+  avatar           : "/assets/images/avatar.png"
   bio              : "Entrepreneur, Software developer, Economic student"
   location         : "Milan, Italy"
   target-blank     : "ext-link"
