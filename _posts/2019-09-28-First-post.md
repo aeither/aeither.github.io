@@ -1,5 +1,5 @@
 ---
-title:  ""Stay hungry, stay foolish" -Steve Jobs"
+title:  "Stay hungry, stay foolish -Steve Jobs"
 
 ---
 
